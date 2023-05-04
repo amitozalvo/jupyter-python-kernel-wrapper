@@ -1,0 +1,11 @@
+{
+    "argv": [
+        "python",
+        "-m",
+        "custom_kernel",
+        "-f",
+        "{connection_file}"
+    ],
+    "display_name": "My Custom Kernel",
+    "language": "python"
+}
